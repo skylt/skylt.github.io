@@ -17,7 +17,7 @@ title: Skylt's blog
 email: brendan@lse.epita.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Young adminsys's blog on his way through the container realm.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://skylt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _Skylt_
 github_username:  skylt
