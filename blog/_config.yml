@@ -24,7 +24,7 @@ github_username:  skylt
 
 # Build settings
 markdown: kramdown
-remote_theme: mattgraham/Midnight
+theme: midnight
 plugins:
   - jekyll-feed
 
