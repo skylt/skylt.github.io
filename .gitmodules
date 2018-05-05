@@ -1,3 +1,0 @@
-[submodule "blog/midnight"]
-	path = blog/midnight
-	url = git@github.com:mattgraham/midnight.git
